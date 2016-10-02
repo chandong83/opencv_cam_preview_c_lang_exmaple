@@ -1,6 +1,5 @@
-# opencv_cam_preview_c_lang_exmaple
+# Opencv CAM Preview Example by C Language
 
-Opencv CAM Preview Example by C Language
 
 # How To Build a Source code
 
