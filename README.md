@@ -14,3 +14,7 @@ $ gcc cam_preview.c -o cv_c `pkg-config opencv --libs`
 <pre><code>
 $ ./cv_c
 </code></pre>
+
+
+# screenshot
+![](./img/screenshot.png)
